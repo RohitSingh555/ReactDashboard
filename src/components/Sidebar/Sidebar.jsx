@@ -17,7 +17,7 @@ const Sidebar = () => {
       >
         <div className="bg-white w-18 h-18 flex justify-center items-center rounded-full shadow-xl">
           <img
-            src="/assets/logo.png"
+            src="/assets/Logo.png"
             alt="Logo"
             className="w-15 h-15 object-contain"
           />
